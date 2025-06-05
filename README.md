@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="github_banner.png" alt="Banner Tecnológico Abstrato"/>
-  <!-- Nota: Faça upload do arquivo github_banner.png para a raiz deste repositório -->
-</p>
-
 <h1 align="center">Olá! 👋 Sou TheMyFish</h1>
 
 <p align="center">
